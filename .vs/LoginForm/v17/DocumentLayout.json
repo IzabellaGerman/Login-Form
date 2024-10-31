@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\!files\\_C#\\GitHub\\3_Shop\\LoginForm\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1429607-5887-4584-8A1A-D48B35D8023F}|LoginForm\\LoginForm.csproj|c:\\!files\\_c#\\github\\3_shop\\loginform\\loginform\\loginform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1429607-5887-4584-8A1A-D48B35D8023F}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1429607-5887-4584-8A1A-D48B35D8023F}|LoginForm\\LoginForm.csproj|C:\\!files\\_C#\\GitHub\\3_Shop\\LoginForm\\LoginForm\\loginform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1429607-5887-4584-8A1A-D48B35D8023F}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\3_Shop\\LoginForm\\LoginForm\\LoginForm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginForm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\!files\\_C#\\GitHub\\3_Shop\\LoginForm\\LoginForm\\LoginForm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LoginForm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwFcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:55:10.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\3_Shop\\LoginForm\\LoginForm\\LoginForm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LoginForm\\MainWindow.xaml",
+              "ToolTip": "C:\\!files\\_C#\\GitHub\\3_Shop\\LoginForm\\LoginForm\\LoginForm\\MainWindow.xaml",
+              "RelativeToolTip": "LoginForm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T07:55:20.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
